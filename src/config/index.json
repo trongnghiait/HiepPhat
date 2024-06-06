@@ -1,0 +1,139 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.ico"
+  },
+  "navigation": [
+    {
+      "name": "Khóa Học",
+      "href": "features"
+    },
+
+    {
+      "name": "Tuyển sinh",
+      "href": "pricing"
+    },
+    {
+      "name": "Tư Vấn",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Chào mừng đến với",
+    "subtitle": "Hiệp Phát",
+    "description": "Trung tâm đào tạo lái xe của chúng tôi không chỉ cam kết mang đến một sự cân nhắc hoàn hảo giữa chi phí hợp lý, chất lượng đào tạo cao và thời gian linh hoạt, mà còn đặt sự hài lòng và tiện lợi của học viên lên hàng đầu. Chúng tôi luôn tìm kiếm các phương pháp đào tạo tiên tiến nhất và cung cấp môi trường học tập hiện đại nhất để đảm bảo rằng học viên nhận được sự chu đáo và chăm sóc tận tình nhất.",
+    "img": "/assets/images/image.png",
+    "primaryAction": {
+      "text": "Đăng Kí Dùng Thử",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Liên Hệ",
+      "href": "maivantrongnghia.it@gmail.com"
+    }
+  },
+  "product": {
+    "title": "Trường dạy lái xe Hiệp Phát",
+    "items": [
+      {
+        "title": "GIỚI THIỆU TRUNG TÂM",
+        "description": "Hiệp Phát là trung tâm đào tạo và sát hạch lái xe tư nhân lớn nhất khu vực phía Nam với 1 sân sát hạch loại 1 và 3 sân tập lái xe. Trung tâm được xây dựng theo tiêu chuẩn sân thi sát hạch loại 1 của bộ giao thông vận tải với đầy đủ các hạng mục công trình cơ bản. \n Hiệp phát đã đầu tư hơn 300 xe Toyota Vios và hơn 200 xe Isuzu đời 2018/2022. Chúng tôi luôn nỗ lực đem lại trải nghiệp tốt nhất cho bạn với các khóa đào tạo lái xe chất lượng cao. \n Hệ thống sân bãi tập, sát hạch của Hiệp Phát rộng thoáng, trải nhựa hiện đại với 3 sân tập thô và 1 sân thi sát hạch tại huyện Bình Chánh. Dàn xe tập lái, xe sát hạch các hạng B1, B2, C có lắp đặt hệ thống cảm ứng chấm điểm tự động cùng hệ thống phòng học lý thuyết trên máy tính, phòng thực tập, bảo dưỡng sửa chữa ô tô và các trang thiết bị cần thiết khác .",
+        "img": "https://home.hpo.edu.vn/images/album_image/san_tap_lai/17.jpg"
+      },
+      {
+        "title": "LỚP HỌC TRỰC TUYẾN",
+        "description": "Trung tâm Hiệp Phát mang đến cho các bạn lớp học nghề lái xe trên nền tảng số bạn có thể tham gia học lý thuyết trực tuyến với đầy đủ tài liệu học tập, bài giảng sinh động, câu hỏi thực hành, bài kiểm tra và video giảng dạy của các Giáo viên chuyên nghiệp với nhiều năm kinh nghiệm trong lĩnh vực đào tạo lái",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Mới Nhất & Tuyệt Vời Nhất ",
+    "subtitle": "Các Khóa Học Hiện Có",
+    "description": "Trung tâm đào tạo lái xe của chúng tôi cung cấp một loạt các khóa học đa dạng để đáp ứng nhu cầu của mọi đối tượng học viên. Từ người mới bắt đầu muốn học lái xe ô tô cho đến những người muốn nâng cao kỹ năng lái xe, chúng tôi có các khóa học phù hợp.",
+    "items": [
+      {
+        "name": "GPLX Hạng B1",
+        "description": "Trong khóa học này, bạn sẽ được đào tạo cách lái Xe ôtô - số sàn <9 chỗ, tải trọng < 3.5 tấn không hành nghề lái xe",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1048/1048333.png"
+      },
+      {
+        "name": "GPLX Hạng B2",
+        "description": "Trong khóa học này, bạn sẽ được đào tạo cách lái Xe ôtô - số tự động <9 chỗ, tải trọng < 3.5 tấn hành nghề lái xe",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1048/1048329.png"
+      },
+      {
+        "name": "GPLX Hạng C",
+        "description": "Trong khóa học này, bạn sẽ được đào tạo cách lái ô tô tải chở hàng có trọng tải > 3,5 tấn hành nghề lái xe",
+        "icon": "data:image/png;base64,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"
+      },
+      {
+        "name": "GPLX Hạng B1",
+        "description": "Trong khóa học này, bạn sẽ được đào tạo cách lái Xe ôtô - số sàn <9 chỗ, tải trọng < 3.5 tấn không hành nghề lái xe",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1048/1048333.png"
+      },
+      {
+        "name": "GPLX Hạng B2",
+        "description": "Trong khóa học này, bạn sẽ được đào tạo cách lái Xe ôtô - số tự động <9 chỗ, tải trọng < 3.5 tấn hành nghề lái xe",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1048/1048329.png"
+      },
+      {
+        "name": "GPLX Hạng B1",
+        "description": "Trong khóa học này, bạn sẽ được đào tạo cách lái Xe ôtô - số sàn <9 chỗ, tải trọng < 3.5 tấn không hành nghề lái xe",
+        "icon": "https://cdn-icons-png.flaticon.com/128/1048/1048333.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Học Phí",
+    "items": [
+      {
+        "name": "GPLX Hạng B1",
+        "price": "20.350.000 VND",
+        "priceDetails": " /Khóa",
+        "features": ["Hỗ trợ cơ bản"]
+      },
+      {
+        "name": "GPLX Hạng C",
+        "price": "20.350.000 VND",
+        "priceDetails": " /Khóa",
+
+        "features": ["Hỗ trợ ưu tiên"]
+      },
+      {
+        "name": "GPLX Hạng B2",
+        "price": "20.350.000 VND",
+        "priceDetails": " /Khóa",
+        "features": ["Hỗ trợ 24/7"]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "HIỆP PHÁT",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Bạn muốn đăng ký học lái xe ?",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Liên hệ với chúng tôi",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ]
+  }
+}
